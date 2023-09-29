@@ -23,8 +23,7 @@ I'm Vipul Tyagi, a passionate Java developer with a love for crafting efficient 
 
 - 📫 You can reach me via email at vipultyagiabes@gmail.com.
 - 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/vipultyagi0909).
-- 🌐 Check out my personal portfolio website:https://medium.com/@vipultyagi_65330709
-- 🌐 Check out my personal portfolio website: [Venture](https://medium.com/@vipultyagi_65330709).
+- 🌐 Check out my personal portfolio website: [Portfolio](https://medium.com/@vipultyagi_65330709).
 
 
 ## Fun Facts
