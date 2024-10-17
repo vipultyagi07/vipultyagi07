@@ -4,7 +4,7 @@ I'm Vipul Tyagi, a passionate Java developer with a love for crafting efficient 
 
 ## About Me
 
-- 💼 Currently working as a Java Developer at Kent Cam.
+- 💼 Currently working as a Java Developer at Lendingkart.
 - 🌱 I'm always eager to learn and stay up-to-date with the latest advancements in the Java ecosystem.
 - 🚀 I'm enthusiastic about writing clean, maintainable code that delivers real value.
 
